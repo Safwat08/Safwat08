@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Safwat08
 - 👀 I’m interested in machine learning, data science
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ? safwat.khan@mail.utoronto.ca
 
