@@ -1,37 +1,18 @@
-<h2><u>👋 Hi, I’m Safwat</u></h2>
+<h2><u> Background</u></h2>
 
-💡 Computational biologist passionate about advancing medicine at the intersection of biology, computer science, and statistics.
+Hi, I'm Safwat, I'm a Computational biologist passionate about advancing medicine at the intersection of biology, computer science, and statistics. I work with single-cell and spatial -omics, building scalable and reproducible pipelines in Python, R, and Bash. Currently finishing my PhD at the University of Toronto (Biomedical Engineering). 
 
-🔬 I work with single-cell and spatial -omics, building scalable and reproducible pipelines in Python, R, and Bash.
+<h2><u> Skills</u></h2>
 
-☁️ Experienced with HPC clusters, Docker, and cloud GPU platforms.
+* Programming: Python (Scanpy, scVI, scikit-learn, pandas), R (Seurat, tidyverse, ggplot2, shiny), Bash
 
-🎯 Currently finishing my PhD at the University of Toronto (Biomedical Engineering).
+* Omics Analysis: sc/snRNA-seq, spatial transcriptomics
 
-🔧 Tech & Tools
+* Workflow: Git/GitHub, Docker, Snakemake, SLURM HPC, Google Colab
 
-Programming: Python (Scanpy, scVI, scikit-learn, pandas), R (Seurat, tidyverse, ggplot2, shiny), Bash
+<h2><u> Links</u></h2>
 
-Workflow: Git/GitHub, Docker, Snakemake, SLURM HPC, Google Colab, AWS
+[LinkedIn](https://www.linkedin.com/in/safwat-khan/)
 
-Omics Analysis: sc/snRNA-seq, spatial transcriptomics, ChIP-seq, ATAC-seq
+[Google Scholar](https://scholar.google.com/citations?user=pVN75JgAAAAJ&hl=en)
 
-📈 Highlights
-
-🧬 Identified novel regulators of pancreatic endothelial specialization (PhD research)
-
-🖥️ Built reproducible pipelines integrating multi-omics and machine learning
-
-📊 Published in Cell Stem Cell, Cancer Discovery, Nature Communications, ATVB and more
-
-🏆 Winner/Finalist in multiple data science & consulting competitions
-
-🌐 Connect with Me
-
-LinkedIn
-
-GitHub
-
-Google Scholar
-
-⚡ "Passionate about transforming big data into big discoveries."
