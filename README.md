@@ -1,6 +1,6 @@
 <h2><u> Background</u></h2>
 
-Hi, I'm Safwat, I'm a Computational biologist passionate about advancing medicine at the intersection of biology, computer science, and statistics. I work with single-cell and spatial -omics, building scalable and reproducible pipelines in Python, R, and Bash. Currently finishing my PhD at the University of Toronto (Biomedical Engineering). 
+Hi, I'm Safwat, I'm a computational biologist passionate about advancing medicine at the intersection of biology, computer science, and statistics. I work with single-cell and spatial -omics, building scalable and reproducible pipelines in Python, R, and Bash. Currently finishing my PhD at the University of Toronto (Biomedical Engineering).
 
 <h2><u> Skills</u></h2>
 
