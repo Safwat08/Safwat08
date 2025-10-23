@@ -11,9 +11,6 @@ Computational biologist specializing in causal and mechanistic modelling of cell
 
 •	Machine Learning: PyTorch, TensorFlow; Decision Trees, Random Forest, Gradient Boosting (XGBoost, CatBoost, LightGBM), Neural Networks (CNNs, VAEs, GNNs)
 
-•	Wet Lab: 2D/3D culture (primary cells, heart/vessel-on-a-chip), RT-qPCR, ChIP-qPCR, IF, Western, flow cytometry, rodent handling 
-
-
 <h2><u> Links</u></h2>
 
 [LinkedIn](https://www.linkedin.com/in/safwat-khan/)
